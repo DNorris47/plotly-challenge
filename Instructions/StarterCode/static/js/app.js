@@ -6,3 +6,5 @@ d3.json("data/samples.json").then((sampleData) => {
     console.log(sampleData);
    
 }); 
+
+initialize
